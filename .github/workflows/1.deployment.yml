@@ -1,4 +1,4 @@
-name: Deployment exercise
+name: Github actions fundamentals
 on: push
 jobs:
   lint:

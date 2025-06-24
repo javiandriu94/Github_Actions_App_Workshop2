@@ -1,4 +1,4 @@
-name: Events Deep dive
+name: Activity types events
 on:
   pull_request:
     types:
